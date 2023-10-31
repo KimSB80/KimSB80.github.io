@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Kim Brewitt # your name (or website title) here
+logo: "/images/headshot3.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I have over 5 years of experience in data analysis and modeling of biological data. 
+  My years of research and teaching have developed my skills as a highly effective communicator and problem-solver.  
   <br><br>
-  Second description 
+  I'm passionate about ecology and sustainability, and am always looking for ways to use data to solve problems.  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/kimbrewitt/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
