@@ -2,14 +2,13 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Impact of Urban Greenspace Access on Longevity](/sample_page)
+<img src="images/GreenspaceProject.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Camera Trap Image Analysis Using a Deep Neural Network](/pdf/sample_presentation.pdf)
+<img src="images/WildlifeImaging.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
