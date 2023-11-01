@@ -2,30 +2,21 @@
 
 ---
 
-
-[Impact of Urban Greenspace Access on Longevity](/sample_page)
+### [Impact of Urban Greenspace Access on Longevity](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-)
 <img src="images/GreenspaceProject.jpg?raw=true"/>
 
 ---
-[Camera Trap Image Analysis Using a Deep Neural Network](/pdf/sample_presentation.pdf)
+### [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
 <img src="images/WildlifeImaging.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [PhD Work -- ](http://example.com/)
+<img src="PhDwork1.png?raw=true"/>
+<img src="PhDwork2.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+## [Springboard Work](https://github.com/KimSB80/Springboard-Case-Studies):
+Some selected work from my 550hr+ data science course
 
 
 
