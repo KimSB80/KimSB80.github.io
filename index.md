@@ -3,6 +3,8 @@
 ---
 
 ### [Impact of Urban Greenspace Access on Longevity](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-)
+Access to urban greenspace is becoming increasingly important as cities continue to grow, and studies have linked access to greenspace (e.g. parks, gardens) to mental well-being (Thompson et al. 2016). Over the past few years, London’s local government has been making a push for “greening London”. I developed a model to predict which factors are most important for longevity within the London wards.
+
 <img width="600" height="400" src="images/GreenspaceProject.jpg?raw=true"/>
 
 ---
@@ -10,9 +12,9 @@
 <img width="600" height="400" src="images/WildlifeImaging.jpg?raw=true"/>
 
 ---
-### [PhD Work -- ](http://example.com/)
-<img width="600" height="400" src="images/PhDwork1.png?raw=true"/>
+### [Effect of Thermal Stress on Juvenile Salmonids (PhD Work)](http://example.com/)
 <img width="600" height="400" src="images/PhDwork2.png?raw=true"/>
+<img width="600" height="400" src="images/PhDwork1.png?raw=true"/>
 
 ---
 ## [Springboard Work](https://github.com/KimSB80/Springboard-Case-Studies):
