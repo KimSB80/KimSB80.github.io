@@ -7,7 +7,7 @@ Access to urban greenspace is becoming increasingly important as cities continue
 <br>
 A gradient boosting model performed best (MAE of 0.796) in deterining which factors are most important for longevity within the London wards. 
 
-<img width="700" height="400" src="images/Greenspace2.png?raw=true"/>
+<img width="800" height="350" src="images/Greenspace2.png?raw=true"/>
 
 ---
 ### [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
