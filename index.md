@@ -3,9 +3,12 @@
 ---
 
 ### [Impact of Urban Greenspace Access on Longevity](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-)
-Access to urban greenspace is becoming increasingly important as cities continue to grow, and studies have linked access to greenspace (e.g. parks, gardens) to mental well-being (Thompson et al. 2016). Over the past few years, London’s local government has been making a push for “greening London”. I developed a model to predict which factors are most important for longevity within the London wards.
+Access to urban greenspace is becoming increasingly important as cities continue to grow, and studies have linked access to greenspace (e.g. parks, gardens) to mental well-being. Over the past few years, London’s local government has been making a push for “greening London”. 
+<br>
+I developed a gradient boosting model to predict which factors are most important for longevity within the London wards. I used r-squared and MAE to determine that the gradient boosting model performed the best, and then used GridSearchCV to tune hyperparameters using k-fold cross-validation.
 
-<img width="600" height="400" src="images/GreenspaceProject.jpg?raw=true"/>
+<img width="600" height="400" src="images/Greenspace1.jpg?raw=true"/>
+<img width="600" height="400" src="images/Greenspace2.jpg?raw=true"/>
 
 ---
 ### [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
