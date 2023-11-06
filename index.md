@@ -11,15 +11,17 @@ Studies have linked access to urban greenspace (e.g. parks, gardens) to mental w
 ### [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
 Deep learning can aid in analyzing the vast amounts of image data created by camera traps, which are used for monitoring wildlife populations for conservation and management purposes. I used a convolutional neural network for multi-class image identification of Himalayan birds. The best model was a fine-tuned VGG16 pre-trained model.
 
-<img width="600" height="450" src="images/WildlifeImaging2.png?raw=true"/>
+<img width="800" height="450" src="images/WildlifeImaging2.png?raw=true"/>
 
 ---
 ### [Effect of Thermal Stress on Juvenile Salmonids (PhD Work)](http://example.com/)
-<img width="600" height="450" src="images/PhDwork2.png?raw=true"/> <img width="600" height="600" src="images/PhDwork1.png?raw=true"/>
+I collected data 
+<img width="600" height="450" src="images/PhDwork2.png?raw=true"/> 
+<img width="600" height="600" src="images/PhDwork1.png?raw=true"/>
 
 ---
 ## [Springboard Work](https://github.com/KimSB80/Springboard-Case-Studies):
-Some selected work from my 550hr+ data science course
+Some selected work from my 550+ hour data science course.
 
 
 
