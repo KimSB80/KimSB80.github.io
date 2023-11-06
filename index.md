@@ -14,10 +14,9 @@ Deep learning can aid in analyzing the vast amounts of image data created by cam
 <img width="800" height="450" src="images/WildlifeImaging2.png?raw=true"/>
 
 ---
-### [Effect of Thermal Stress on Juvenile Salmonids (PhD Work)](http://example.com/)
-I collected data 
+### [Effect of Thermal Stress on Juvenile Salmonids (PhD Work)](/PhD_page/)
+I designed and ran a large project to collect and analyze data on the effect of elevated water temperatures on fish habitat use. [Read more](/PhD_page/)
 <img width="600" height="450" src="images/PhDwork2.png?raw=true"/> 
-<img width="600" height="600" src="images/PhDwork1.png?raw=true"/>
 
 ---
 ## [Springboard Work](https://github.com/KimSB80/Springboard-Case-Studies):
