@@ -3,11 +3,9 @@
 ---
 
 ### [Impact of Urban Greenspace Access on Longevity](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-)
-Access to urban greenspace is becoming increasingly important as cities continue to grow, and studies have linked access to greenspace (e.g. parks, gardens) to mental well-being. Over the past few years, London’s local government has been making a push for “greening London”. <br>
-<br>
-A gradient boosting model performed best (MAE of 0.796) in deterining which factors are most important for longevity within the London wards. 
+Access to urban greenspace is becoming increasingly important as cities continue to grow, and studies have linked access to greenspace (e.g. parks, gardens) to mental well-being. Over the past few years, London’s local government has been making a push for “greening London”. I analyzed data from the Greater London Authority to investigate which well-being metrics, including access to greenspace, are associated with a longer life-span. A gradient boosting model performed best (MAE of 0.796) in determining which factors are most important for longevity within the London wards. 
 
-<img width="800" height="350" src="images/Greenspace2.png?raw=true"/>
+<img width="800" height="375" src="images/Greenspace2.png?raw=true"/>
 
 ---
 ### [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
@@ -15,8 +13,7 @@ A gradient boosting model performed best (MAE of 0.796) in deterining which fact
 
 ---
 ### [Effect of Thermal Stress on Juvenile Salmonids (PhD Work)](http://example.com/)
-<img width="600" height="400" src="images/PhDwork2.png?raw=true"/>
-<img width="600" height="400" src="images/PhDwork1.png?raw=true"/>
+<img width="600" height="450" src="images/PhDwork2.png?raw=true"/> <img width="600" height="600" src="images/PhDwork1.png?raw=true"/>
 
 ---
 ## [Springboard Work](https://github.com/KimSB80/Springboard-Case-Studies):
