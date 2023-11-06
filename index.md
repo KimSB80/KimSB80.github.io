@@ -11,7 +11,7 @@ Studies have linked access to urban greenspace (e.g. parks, gardens) to mental w
 ### [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
 Deep learning can aid in analyzing the vast amounts of image data created by camera traps, which are used for monitoring wildlife populations for conservation and management purposes. I used a convolutional neural network for multi-class image identification of Himalayan birds. The best model was a fine-tuned VGG16 pre-trained model.
 
-<img width="800" height="450" src="images/WildlifeImaging2.png?raw=true"/>
+<img width="400" height="250" src="images/WildlifeImaging2.png?raw=true"/>
 
 ---
 ### [Effect of Thermal Stress on Juvenile Salmonids (PhD Work)](/PhD_page/)
