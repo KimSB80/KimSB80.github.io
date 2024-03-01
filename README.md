@@ -8,7 +8,7 @@ Urban planning organizations need to know where best to allocate resources in wo
 
  - Python tools:  **Gradient Boosting Regression**, Random Forest, Support Vector Machines, **GridSearchCV**, **Sci-kit Learn**
    
-<img width="500" height="200" src="images/urban_greenspace.jpg?raw=true"/>
+<img width="500" height="300" src="images/urban_greenspace.jpg?raw=true"/>
 
 ---
 # [Multi-Class Image Detection of Camera Trap Wildlife Imagery](https://github.com/KimSB80/Wildlife-Image-Processing)
