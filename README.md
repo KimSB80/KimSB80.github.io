@@ -1,51 +1,30 @@
-## Developer Portfolio Landing Page Template
+## Kim Brewitt's Portfolio
 
-### Introduction
+---
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+# [Predicting Well-Being to Inform Urban Planning](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-)
+### Improve urban planning by directing resources to the correct areas!
+Access to urban greenspace is linked to mental well-being; over the past few years, London’s local government has been making a push for “greening London”. I analyzed data from the Greater London Authority to investigate which well-being metrics, including access to greenspace, are associated with a longer life-span. A gradient boosting model performed best (MAE of 0.796) in determining which factors are most important for longevity within the London wards. 
 
-<img src="images/demo.gif?raw=true"/>
+ - Python tools:  **Gradient Boosting Regression**, Random Forest, Support Vector Machines, **GridSearchCV**, **Sci-kit Learn**
+ - 
+<img width="800" height="375" src="images/Greenspace2.png?raw=true"/>
 
-### Installation
+---
+# [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
+Deep learning can aid in analyzing the vast amounts of image data created by camera traps, which are used for monitoring wildlife populations for conservation and management purposes. I used a convolutional neural network for multi-class image identification of Himalayan birds. The best model was a fine-tuned VGG16 pre-trained model.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+<img width="600" height="350" src="images/WildlifeImaging2.png?raw=true"/>
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+---
+# [Predicting the Effects of Thermal Stress on Salmon (PhD Work)](/PhD_page)
+I designed and ran a large research project to collect and analyze data on the effect of elevated water temperatures on fish habitat use in northern California. [Read more](/PhD_page)
+<br>
+<img width="600" height="450" src="images/PhDwork2.png?raw=true"/> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+## [Springboard Work](https://github.com/KimSB80/Springboard-Case-Studies):
+Some selected work from my 550+ hour data science course.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
