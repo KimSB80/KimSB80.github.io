@@ -1,4 +1,4 @@
-### Portfolio of recent data science projects.
+Portfolio of recent data science projects.
 
 ---
 
