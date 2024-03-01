@@ -17,7 +17,7 @@ Deep learning can aid in analyzing the vast amounts of image data created by cam
 
 - Python tools:  **Convolutional Neural Network**, Supervised Machine Learning, Multi-Class Classification 
    
-<img width="500" height="200" src="images/WildlifeImaging2.png?raw=true"/>
+<img width="500" height="300" src="images/WildlifeImaging2.png?raw=true"/>
 
 ---
 # [Predicting the Effects of Thermal Stress on Salmon (PhD Work)](/PhD_page)
