@@ -1,6 +1,3 @@
-Portfolio of recent data science projects.
-
----
 
 # [Predicting Well-Being to Inform Urban Planning](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-)
 ### Improve urban planning by directing resources to the correct areas
