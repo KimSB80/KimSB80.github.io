@@ -1,19 +1,22 @@
-## Kim Brewitt's Portfolio
+### Portfolio of recent data science projects.
 
 ---
 
 # [Predicting Well-Being to Inform Urban Planning](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-)
-### Improve urban planning by directing resources to the correct areas!
-Access to urban greenspace is linked to mental well-being; over the past few years, London’s local government has been making a push for “greening London”. I analyzed data from the Greater London Authority to investigate which well-being metrics, including access to greenspace, are associated with a longer life-span. A gradient boosting model performed best (MAE of 0.796) in determining which factors are most important for longevity within the London wards. 
+### Improve urban planning by directing resources to the correct areas
+Urban planning organizations need to know where best to allocate resources in working to improve the quality of life in cities. There has been a recent push to emphasize development of urban greenspace, which is linked to mental well-being. I analyzed an urban well-being dataset from the Greater London Authority and used a gradient boosting regression model to predict (MAE of 0.796) the importance of urban greenspace on longevity. 
 
  - Python tools:  **Gradient Boosting Regression**, Random Forest, Support Vector Machines, **GridSearchCV**, **Sci-kit Learn**
  - 
 <img width="800" height="375" src="images/Greenspace2.png?raw=true"/>
 
 ---
-# [Camera Trap Image Analysis Using a Deep Neural Network](https://github.com/KimSB80/Wildlife-Image-Processing)
-Deep learning can aid in analyzing the vast amounts of image data created by camera traps, which are used for monitoring wildlife populations for conservation and management purposes. I used a convolutional neural network for multi-class image identification of Himalayan birds. The best model was a fine-tuned VGG16 pre-trained model.
+# [Multi-Class Image Detection of Camera Trap Wildlife Imagery](https://github.com/KimSB80/Wildlife-Image-Processing)
+### Utilize the power of deep learning to automate wildlife image analysis 
+Deep learning can aid in analyzing the vast amounts of image data created by camera traps, which are used for monitoring wildlife populations for conservation and management purposes. I used a convolutional neural network for multi-class classification of bird images from camera traps. The best model was a fine-tuned VGG16 pre-trained model.
 
+ - Python tools:  **Convolutional Neural Network**, Supervised Machine Learning, Multi-Class Classification 
+ - 
 <img width="600" height="350" src="images/WildlifeImaging2.png?raw=true"/>
 
 ---
