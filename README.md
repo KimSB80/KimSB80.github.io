@@ -17,13 +17,6 @@ Deep learning can aid in analyzing the vast amounts of image data created by cam
 <img width="500" height="300" src="images/WildlifeImaging2.png?raw=true"/>
 
 ---
-# [Predicting User Engagement](https://github.com/KimSB80/Springboard-Case-Studies/tree/main/Ultimate_challenge):
-### Running A/B experiments to predict user adoption
-
- - Python tools:  
-
-
----
 # [Predicting the Effects of Thermal Stress on Salmon (PhD Work)](/PhD_page)
 I designed, organized, and ran a multi-year research project to collect and analyze data on the effect of elevated water temperatures on fish habitat use in northern California. [Read more](/PhD_page)
 <br>
