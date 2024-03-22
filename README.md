@@ -17,7 +17,7 @@ Deep learning can aid in analyzing the vast amounts of image data created by cam
 <img width="500" height="300" src="images/WildlifeImaging2.png?raw=true"/>
 
 ---
-# [Predicting the Effects of Thermal Stress on Salmon (PhD Work)](/PhD_page)
+# [Predicting the Effects of Thermal Stress on Salmon (PhD Work)]
 ### Using logistic regression and AIC model selection to predict habitat use
 I designed, organized, and ran a multi-year research project to collect and analyze data on the effect of elevated water temperatures on fish habitat use in northern California. [Read more](/PhD_page)
 <br>
