@@ -8,8 +8,8 @@ Urban planning organizations need to know where best to allocate resources in wo
 <img width="500" height="300" src="images/urban_greenspace.jpg?raw=true"/>
 
 ---
-# [Multi-Class Image Detection of Camera Trap Wildlife Imagery](https://github.com/KimSB80/Wildlife-Image-Processing)
-### Utilizing the power of deep learning to automate wildlife image analysis 
+# [Automated Image Analysis and Multi-Class Classification](https://github.com/KimSB80/Wildlife-Image-Processing)
+### Utilizing the power of deep learning to automate species identification from camera trap images 
 Deep learning can aid in analyzing the vast amounts of image data created by camera traps, which are used for monitoring wildlife populations for conservation and management purposes. I used a convolutional neural network for multi-class classification of bird images from camera traps. The best model was a fine-tuned VGG16 pre-trained model.
 
 - Python tools:  **Convolutional Neural Network**, Supervised Machine Learning, Multi-Class Classification 
@@ -18,6 +18,7 @@ Deep learning can aid in analyzing the vast amounts of image data created by cam
 
 ---
 # [Predicting the Effects of Thermal Stress on Salmon (PhD Work)](/PhD_page)
+### Using logistic regression and AIC model selection to predict habitat use
 I designed, organized, and ran a multi-year research project to collect and analyze data on the effect of elevated water temperatures on fish habitat use in northern California. [Read more](/PhD_page)
 <br>
 - R tools:  **Logisitic Mixed Effects Modeling**, AIC Model Selection 
